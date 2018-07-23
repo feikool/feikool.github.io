@@ -49,7 +49,7 @@ duoshuo_username:  # 你的多说帐号
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 # Use livere
-use_livere:
+use_livere: true
 
 # Valine comment system https://valine.js.org
 valine: 
